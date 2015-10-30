@@ -1,1 +1,1 @@
-web: thumbor -p $PORT -c ./thumbor.con
+web: thumbor -p $PORT -c ./thumbor.conf
